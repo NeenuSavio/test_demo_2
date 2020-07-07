@@ -5,7 +5,7 @@ public class BadmintonCoach implements Coach {
 	@Override
 	public String getDailyWorkout() {
 		
-		return "Spend 60 minutes on  practice";
+		return "Neenu Spend 60 minutes on  practice";
 	}
 
 	@Override
